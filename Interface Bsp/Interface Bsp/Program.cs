@@ -6,8 +6,9 @@ namespace Interface_Bsp
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
+            //Daten werden eingeben
             string[] starPlayersOfZvezda = { "Aleksandar Katai", "Milan Borjan", "El Fardu Ben" };
             Team crvenaZvezda = new Team("FK Crvena Zvezda", starPlayersOfZvezda, 1945);
             string[] starPlayersOfMadrid = { "Karim Benzema", "Thibaut Cortoius", "Luka Modric" };
@@ -19,7 +20,7 @@ namespace Interface_Bsp
             Team[] allTeams = { crvenaZvezda, realMadrid, bayernMuenchen, blauWeissLinz };
             Print(allTeams);
         }
-        static void Print(Team[] teams)
+        static void Print(Team[] teams) // Ausgabe der Teams, Spieler und Gründungsjahr
         {
             foreach (var item in teams)
             {

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "gtuFXRlP5XzDzgk9cSzpZkW2GRmX6LoV7XsqxW2vVDEfeehg3CeDEGd/mUjBSRKTj/IpjZL62Bqg6Nwv5R0/ww==",
+  "dgSpecHash": "kMIvE+LctVDdQQ7+JXYKeIGze7XoybfWeUxjORUyhSXVs94RNP0irs79dZKcXPNl97N3oPJ4ssKiYyOyxI1yEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Antonio Ignac\\source\\repos\\Interface Bsp\\Interface Bsp\\Interface Bsp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\kurti\\OneDrive\\Dokumente\\GitHub\\IgnacKurtic-Interfaces-2022\\Interface Bsp\\Interface Bsp\\Interface Bsp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kurti\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }
