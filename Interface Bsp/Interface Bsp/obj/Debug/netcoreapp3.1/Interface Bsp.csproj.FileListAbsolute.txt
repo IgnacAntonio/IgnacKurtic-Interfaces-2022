@@ -1,0 +1,14 @@
+C:\Users\Antonio Ignac\source\repos\Interface Bsp\Interface Bsp\bin\Debug\netcoreapp3.1\Interface Bsp.exe
+C:\Users\Antonio Ignac\source\repos\Interface Bsp\Interface Bsp\bin\Debug\netcoreapp3.1\Interface Bsp.deps.json
+C:\Users\Antonio Ignac\source\repos\Interface Bsp\Interface Bsp\bin\Debug\netcoreapp3.1\Interface Bsp.runtimeconfig.json
+C:\Users\Antonio Ignac\source\repos\Interface Bsp\Interface Bsp\bin\Debug\netcoreapp3.1\Interface Bsp.runtimeconfig.dev.json
+C:\Users\Antonio Ignac\source\repos\Interface Bsp\Interface Bsp\bin\Debug\netcoreapp3.1\Interface Bsp.dll
+C:\Users\Antonio Ignac\source\repos\Interface Bsp\Interface Bsp\bin\Debug\netcoreapp3.1\Interface Bsp.pdb
+C:\Users\Antonio Ignac\source\repos\Interface Bsp\Interface Bsp\obj\Debug\netcoreapp3.1\Interface Bsp.csproj.AssemblyReference.cache
+C:\Users\Antonio Ignac\source\repos\Interface Bsp\Interface Bsp\obj\Debug\netcoreapp3.1\Interface Bsp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antonio Ignac\source\repos\Interface Bsp\Interface Bsp\obj\Debug\netcoreapp3.1\Interface Bsp.AssemblyInfoInputs.cache
+C:\Users\Antonio Ignac\source\repos\Interface Bsp\Interface Bsp\obj\Debug\netcoreapp3.1\Interface Bsp.AssemblyInfo.cs
+C:\Users\Antonio Ignac\source\repos\Interface Bsp\Interface Bsp\obj\Debug\netcoreapp3.1\Interface Bsp.csproj.CoreCompileInputs.cache
+C:\Users\Antonio Ignac\source\repos\Interface Bsp\Interface Bsp\obj\Debug\netcoreapp3.1\Interface Bsp.dll
+C:\Users\Antonio Ignac\source\repos\Interface Bsp\Interface Bsp\obj\Debug\netcoreapp3.1\Interface Bsp.pdb
+C:\Users\Antonio Ignac\source\repos\Interface Bsp\Interface Bsp\obj\Debug\netcoreapp3.1\Interface Bsp.genruntimeconfig.cache
